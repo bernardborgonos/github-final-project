@@ -74,6 +74,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 Violations may be reported to the project maintainer at:
 
 **📧 bernardborgonos@gmail.com** 
+      bernard V. Borgonos
 
 ### 1. Correction
 
